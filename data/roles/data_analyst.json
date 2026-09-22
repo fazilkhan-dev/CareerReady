@@ -1,0 +1,37 @@
+{
+    "role": "Data Analyst",
+    "skills": [
+        {
+            "name": "Python",
+            "weight": 15
+        },
+        {
+            "name": "SQL",
+            "weight": 20
+        },
+        {
+            "name": "Excel",
+            "weight": 10
+        },
+        {
+            "name": "Pandas",
+            "weight": 10
+        },
+        {
+            "name": "NumPy",
+            "weight": 5
+        },
+        {
+            "name": "Statistics",
+            "weight": 15
+        },
+        {
+            "name": "Data Visualization",
+            "weight": 10
+        },
+        {
+            "name": "Power BI",
+            "weight": 15
+        }
+    ]
+}
